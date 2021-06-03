@@ -4,8 +4,9 @@ int sum(int, int);
 
 int main()
 {
-    int a = 9;
-    int b = 1;    
+    std::cout << "git training" << std::endl; 
+    int a = 5;
+    int b = 4;    
     std::cout << sum(a,b) << std::endl;
     return 0;
 }
